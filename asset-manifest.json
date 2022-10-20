@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/stillhungryhost/static/css/main.04a21dad.css",
-    "main.js": "/stillhungryhost/static/js/main.a53a1ab9.js",
+    "main.css": "/stillhungryhost/static/css/main.81f12e14.css",
+    "main.js": "/stillhungryhost/static/js/main.40fa4772.js",
     "static/js/787.af27d411.chunk.js": "/stillhungryhost/static/js/787.af27d411.chunk.js",
     "static/media/burgerimg-nobg.png": "/stillhungryhost/static/media/burgerimg-nobg.bb178a46d930439c6ebe.png",
     "static/media/Devnarayan-nobg.png": "/stillhungryhost/static/media/Devnarayan-nobg.63f63ddc39c59510ed0b.png",
     "static/media/FoodCode-1.png": "/stillhungryhost/static/media/FoodCode-1.cdd6268969fd6b2518ba.png",
     "static/media/StillHungryNav.png": "/stillhungryhost/static/media/StillHungryNav.9451dd039a3e5d2800bf.png",
     "index.html": "/stillhungryhost/index.html",
-    "main.04a21dad.css.map": "/stillhungryhost/static/css/main.04a21dad.css.map",
-    "main.a53a1ab9.js.map": "/stillhungryhost/static/js/main.a53a1ab9.js.map",
+    "main.81f12e14.css.map": "/stillhungryhost/static/css/main.81f12e14.css.map",
+    "main.40fa4772.js.map": "/stillhungryhost/static/js/main.40fa4772.js.map",
     "787.af27d411.chunk.js.map": "/stillhungryhost/static/js/787.af27d411.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.04a21dad.css",
-    "static/js/main.a53a1ab9.js"
+    "static/css/main.81f12e14.css",
+    "static/js/main.40fa4772.js"
   ]
 }
